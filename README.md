@@ -3,6 +3,8 @@ Swift Warsaw
 
 Monthly meetup for Swift developers. In Warsaw, Poland.
 
+![](logo/swift_warsaw_logo_200.png)
+
 
 Resources
 ---------

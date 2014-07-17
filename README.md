@@ -1,5 +1,5 @@
 Swift Warsaw
 ============
 
-- [Speaker Guide](speaker-guide.md)
+- [Guide](guide.md)
 - [Logo](https://github.com/SwiftWarsaw/SwiftWarsaw/tree/master/logo)

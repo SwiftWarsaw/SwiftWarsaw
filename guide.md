@@ -1,5 +1,5 @@
-Speaker Guide
-=============
+Swift Warsaw Guide
+==================
 
 This guide outlines a few important points about Swift Warsaw and talks
 that take place during our meetings. It exists so that both speakers

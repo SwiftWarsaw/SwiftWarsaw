@@ -14,14 +14,14 @@ racist, or exclusionary language and imagery is not appropriate.
 
 Attendees violating these rules may be asked to leave.
 
-Thank you for helping make this a welcoming, friendly event for all.
+Thank you for helping make this a welcoming, friendly event for everyone.
 
 
 Event Format
 ------------
 
 At each event there are two or three main talks and an optional
-lightning talk session.  Talks are held in Polish or English.
+lightning talk session. Talks are held in Polish or English.
 
 
 ### Main Talks

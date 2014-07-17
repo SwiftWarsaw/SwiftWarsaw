@@ -29,7 +29,7 @@ lightning talk session.  Talks are held in Polish or English.
 Main talks take up to 15 minutes.  There are 3 minutes for questions
 after each talk.
 
-If you would like to give a talk at Swift Warsaw, then great!  Please
+If you would like to give a talk at Swift Warsaw, that's great!  Please
 send us an email at <hello@swiftwarsaw.com> with the following
 information:
 

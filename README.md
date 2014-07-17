@@ -1,4 +1,5 @@
 Swift Warsaw
 ============
 
-All organizational stuff goes here.
+- [Speaker Guide](speaker-guide.md)
+- [Logo](https://github.com/SwiftWarsaw/SwiftWarsaw/tree/master/logo)

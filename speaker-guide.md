@@ -37,7 +37,7 @@ information:
 - title of the talk
 - short description of the talk (anything longer than one sentence is :ok:)
 - your picture or avatar to include on the event's page
-- other information about that you would like to include on the event's
+- other information about you that you would like to include on the event's
   page (e.g. a short bio, link to your homepage, Twitter, GitHub, etc.)
 - phone number (used in case of emergency)
 - hardware requirements (e.g. if you need to use our laptop or need a

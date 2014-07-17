@@ -13,8 +13,8 @@ Resources
 - [Logo](https://github.com/SwiftWarsaw/SwiftWarsaw/tree/master/logo)
 
 
-Links
------
+Profiles
+--------
 
 - [Twitter](https://twitter.com/SwiftWarsaw)
 - [Facebook](https://www.facebook.com/swiftwarsaw)

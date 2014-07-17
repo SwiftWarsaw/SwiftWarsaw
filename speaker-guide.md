@@ -2,14 +2,14 @@ Speaker Guide
 =============
 
 This guide outlines a few important points about Swift Warsaw and talks
-that take place during our meetings.  It exists so that both speakers
+that take place during our meetings. It exists so that both speakers
 and attendees can enjoy a well organised event.
 
 
 Code of Conduct
 ---------------
 
-Be kind to others.  Do not insult or put down other attendees.  Sexual,
+Be kind to others. Do not insult or put down other attendees. Sexual,
 racist, or exclusionary language and imagery is not appropriate.
 
 Attendees violating these rules may be asked to leave.
@@ -29,7 +29,9 @@ lightning talk session. Talks are held in Polish or English.
 Main talks take up to 15 minutes. There are 3 minutes for questions
 after each talk.
 
-It's always awesome when people submit their own talks. If you want to give one - just shoot as an email at <hello@swiftwarsaw.com> with short summary, and we'll contact you sooner than you think.
+It's always awesome when people submit their own talks. If you want to
+give one, just shoot as an email at <hello@swiftwarsaw.com> with a short
+summary, and we'll contact you sooner than you think.
 
 
 ### Lighting Talks

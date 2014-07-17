@@ -23,6 +23,10 @@ Event Format
 At each event there are two or three main talks and an optional
 lightning talk session. Talks are held in Polish or English.
 
+After the "official" part, there's a lot of time for networking.
+A round of beer is provided by the sponsor, but feel free to bring
+your own booze.
+
 
 ### Main Talks
 

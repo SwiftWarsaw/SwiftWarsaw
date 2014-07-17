@@ -1,5 +1,5 @@
-Speaker Guide
-=============
+Swift Warsaw Guide
+==================
 
 This guide outlines a few important points about Swift Warsaw and talks
 that take place during our meetings. It exists so that both speakers
@@ -23,6 +23,10 @@ Event Format
 At each event there are two or three main talks and an optional
 lightning talk session. Talks are held in Polish or English.
 
+After the "official" part, there's a lot of time for networking.
+A round of beer is provided by the sponsor, but feel free to bring
+your own booze.
+
 
 ### Main Talks
 
@@ -34,9 +38,9 @@ give one, just shoot as an email at <hello@swiftwarsaw.com> with a short
 summary, and we'll contact you sooner than you think.
 
 
-### Lighting Talks
+### Lightning Talks
 
-Lighting Talks are very short presentations. They take up to 5 minutes
+Lightning Talks are very short presentations. They take up to 5 minutes
 and there is no time for questions.
 
 If you want to give a lightning talk, send us an email at

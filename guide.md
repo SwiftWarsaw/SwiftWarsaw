@@ -34,9 +34,9 @@ give one, just shoot as an email at <hello@swiftwarsaw.com> with a short
 summary, and we'll contact you sooner than you think.
 
 
-### Lighting Talks
+### Lightning Talks
 
-Lighting Talks are very short presentations. They take up to 5 minutes
+Lightning Talks are very short presentations. They take up to 5 minutes
 and there is no time for questions.
 
 If you want to give a lightning talk, send us an email at

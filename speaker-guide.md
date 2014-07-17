@@ -2,14 +2,14 @@ Speaker Guide
 =============
 
 This guide outlines a few important points about Swift Warsaw and talks
-that take place during our meetings.  It exists so that both speakers
+that take place during our meetings. It exists so that both speakers
 and attendees can enjoy a well organised event.
 
 
 Code of Conduct
 ---------------
 
-Be kind to others.  Do not insult or put down other attendees.  Sexual,
+Be kind to others. Do not insult or put down other attendees. Sexual,
 racist, or exclusionary language and imagery is not appropriate.
 
 Attendees violating these rules may be asked to leave.

@@ -34,7 +34,7 @@ Main talks take up to 15 minutes. There are 3 minutes for questions
 after each talk.
 
 It's always awesome when people submit their own talks. If you want to
-give one, just shoot as an email at <hello@swiftwarsaw.com> with a short
+give one, just shoot us an email at <hello@swiftwarsaw.com> with a short
 summary, and we'll contact you sooner than you think.
 
 

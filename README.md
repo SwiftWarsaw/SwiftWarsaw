@@ -18,7 +18,7 @@ Profiles
 
 - [Twitter](https://twitter.com/SwiftWarsaw)
 - [Facebook](https://www.facebook.com/swiftwarsaw)
-- [Meetup](www.meetup.com/Swift-Warsaw/)
+- [Meetup](http://www.meetup.com/Swift-Warsaw/)
 
 
 Organizers

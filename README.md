@@ -9,7 +9,7 @@ Monthly meetup for Swift developers. In Warsaw, Poland.
 Meetups
 -------
 
-- SW4 · 2014-11-27
+- [SW4](meetups/4.md) · 2014-11-27
 - SW3 · 2014-10-25
 - [SW2](meetups/2.md) · 2014-08-28
 - [SW1](meetups/1.md) · 2014-07-31
